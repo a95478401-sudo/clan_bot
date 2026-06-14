@@ -28,7 +28,7 @@ from telegram.ext import (
 #  НАСТРОЙКИ
 # ──────────────────────────────────────────────
 BOT_TOKEN  = "8617472901:AAFdqtDF4ermOn_eX0wESVmO5jwWdkry8fg"
-GROUP_LINK = "https://t.me/+jcI3dLSe-DsyODli"
+GROUP_LINK = "https://t.me/+AC56M5JFGRllYmFi"
 
 # Оба администратора
 ADMIN_IDS: set[int] = {8054412009, 7628577301}
